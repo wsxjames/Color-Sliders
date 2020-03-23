@@ -13,6 +13,7 @@
 		9BD1660B241911C7005B1BB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD16609241911C7005B1BB6 /* Main.storyboard */; };
 		9BD1660D241911CA005B1BB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD1660C241911CA005B1BB6 /* Assets.xcassets */; };
 		9BD16610241911CA005B1BB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD1660E241911CA005B1BB6 /* LaunchScreen.storyboard */; };
+		9BD1661824191371005B1BB6 /* SlideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD1661724191371005B1BB6 /* SlideViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9BD1660C241911CA005B1BB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BD1660F241911CA005B1BB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BD16611241911CA005B1BB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BD1661724191371005B1BB6 /* SlideViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9BD16605241911C7005B1BB6 /* SceneDelegate.swift */,
 				9BD16607241911C7005B1BB6 /* ViewController.swift */,
 				9BD16609241911C7005B1BB6 /* Main.storyboard */,
+				9BD1661724191371005B1BB6 /* SlideViewController.swift */,
 				9BD1660C241911CA005B1BB6 /* Assets.xcassets */,
 				9BD1660E241911CA005B1BB6 /* LaunchScreen.storyboard */,
 				9BD16611241911CA005B1BB6 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BD1661824191371005B1BB6 /* SlideViewController.swift in Sources */,
 				9BD16608241911C7005B1BB6 /* ViewController.swift in Sources */,
 				9BD16604241911C7005B1BB6 /* AppDelegate.swift in Sources */,
 				9BD16606241911C7005B1BB6 /* SceneDelegate.swift in Sources */,
